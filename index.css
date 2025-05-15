@@ -6,3 +6,42 @@ h1{
 h2{
     background-color: darkmagenta;
 }
+
+#container{
+    width: 400px;
+    height: 400px;
+    background-color: deepskyblue;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#container div{
+    height: 40px;
+    width: 40px;
+
+}
+
+#div1{
+    background-color: aquamarine;
+    height: 40px;
+    width: 40px;
+}
+
+#div2{
+    background-color: rgb(175, 229, 38);
+}
+#div3{
+    background-color: rgb(70, 106, 94);
+}
+#div4{
+    background-color: rgb(30, 141, 227);
+}
+#div5{
+    background-color: rgb(231, 30, 200);
+}
+#div6{
+    background-color: rgb(235, 34, 34);
+}
